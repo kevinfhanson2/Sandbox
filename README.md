@@ -1,0 +1,2 @@
+# Sandbox
+Cursor AI sandbox
